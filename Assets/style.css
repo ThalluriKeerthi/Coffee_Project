@@ -89,6 +89,12 @@ input::placeholder{
     .logo{
         font-size: 1.5rem;
     }
+    .card{
+        margin-left:18px;
+        display:flex;
+        align-items:center;
+        justify-content:center;
+    }
     .navbar-nav{
         margin-right: -2px;
         font-size:small;
